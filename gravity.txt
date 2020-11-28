@@ -1,0 +1,5 @@
+Every particle has 3 charges red, blue and green. Charges are measured relative to netural 128. Same side of neutral attract, opposite repel.
+
+Attraction is 1/r^2, measured to each of 4 closest copies.
+
+Only measure attraction and update between constant number of permutations per step.
